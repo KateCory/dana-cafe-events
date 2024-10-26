@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.nav {
+    height: 150px;
+    background-color: blueviolet;
+    display: flex;
+    padding: 20px 36px;
+}
+/* 
+.nav--title, .nav--events {
+    display: inline-block;
+}  */
+
+.form--button {
+    background-color: yellow
+}
+
